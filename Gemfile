@@ -12,7 +12,9 @@ gem "jekyll", "~> 3.9.0"
 gem 'jekyll-archives'
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate-v2'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'mini_magick'
+
 gem "kramdown-parser-gfm"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -22,7 +24,7 @@ gem "kramdown-parser-gfm"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
-#gem "github-pages", '>=104', group: :jekyll_plugins
+# gem "github-pages", '>=104', group: :jekyll_plugins
 
 gem 'webrick'
 
