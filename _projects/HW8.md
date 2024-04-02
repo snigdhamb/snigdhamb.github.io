@@ -44,7 +44,7 @@ The map is interactive, allowing users to zoom in and out and pan across differe
 </div>
 
 <div class="right">
-<a class="m-1 btn btn-outline-primary btn-2 " href="snigdhamb.github.io/python_notebooks/IS445HW8.ipynb">
+<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/snigdhamb/snigdhamb.github.io/blob/master/python_notebooks/IS445HW8.ipynb">
   The Notebook
 </a>
 </div>
