@@ -36,24 +36,25 @@ In the analysis, I used latitude and longitude coordinates to plot the sightings
 ### Interactivity:
 The map is interactive, allowing users to zoom in and out and pan across different regions to explore the distribution of sightings worldwide. This interactivity enhances the user experience by enabling them to focus on specific regions of interest.
 
-### Link to Notebook:
+### Links:
+```
 ```
 <div class="left">
-{% include elements/button.html link="[https://github.com/vega/vega/blob/main/docs/data/cars.json](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv)" text="The Data" %}
+{% include elements/button.html link="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="python_notebooks/IS445HW8.ipynb" text="The Notebook" %}
+{% include elements/button.html link="https://github.com/snigdhamb/snigdhamb.github.io/blob/master/python_notebooks/IS445HW8.ipynb" text="The Notebook" %}
 </div>
 ```
 
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="[https://github.com/vega/vega/blob/main/docs/data/cars.json](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv)" text="The Data" %}
+{% include elements/button.html link="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="python_notebooks/IS445HW8.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/snigdhamb/snigdhamb.github.io/blob/master/python_notebooks/IS445HW8.ipynb" text="The Notebook" %}
 </div>
 
