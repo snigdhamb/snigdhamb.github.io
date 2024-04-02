@@ -37,7 +37,6 @@ In the analysis, I used latitude and longitude coordinates to plot the sightings
 The map is interactive, allowing users to zoom in and out and pan across different regions to explore the distribution of sightings worldwide. This interactivity enhances the user experience by enabling them to focus on specific regions of interest.
 
 ### Links:
-https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv
 <div class="left">
 <a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv">
   The Data
