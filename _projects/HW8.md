@@ -38,8 +38,6 @@ The map is interactive, allowing users to zoom in and out and pan across differe
 
 ### Links:
 https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv
-```
-```
 <div class="left">
 <a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv">
   The Data
