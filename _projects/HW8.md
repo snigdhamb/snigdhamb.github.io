@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Analysis of UFO Sightings
+name: Analysis of UFO Sightings
+tools: [Python, Altair, vega-lite]
+description: This is a homework assignment
 ---
 
 # Analysis of UFO Sightings
@@ -36,4 +37,23 @@ In the analysis, I used latitude and longitude coordinates to plot the sightings
 The map is interactive, allowing users to zoom in and out and pan across different regions to explore the distribution of sightings worldwide. This interactivity enhances the user experience by enabling them to focus on specific regions of interest.
 
 ### Link to Notebook:
-You can find the notebook for this analysis [here](python_notebooks/IS445HW8.ipynb).
+```
+<div class="left">
+{% include elements/button.html link="[https://github.com/vega/vega/blob/main/docs/data/cars.json](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv)" text="The Data" %}
+</div>
+
+<div class="right">
+{% include elements/button.html link="python_notebooks/IS445HW8.ipynb" text="The Notebook" %}
+</div>
+```
+
+<!-- these are written in a combo of html and liquid --> 
+
+<div class="left">
+{% include elements/button.html link="[https://github.com/vega/vega/blob/main/docs/data/cars.json](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv)" text="The Data" %}
+</div>
+
+<div class="right">
+{% include elements/button.html link="python_notebooks/IS445HW8.ipynb" text="The Analysis" %}
+</div>
+
