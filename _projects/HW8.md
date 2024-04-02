@@ -41,21 +41,13 @@ https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocode
 ```
 ```
 <div class="left">
-{% include elements/button.html link="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %}
+<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv">
+  The Data
+</a>
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/snigdhamb/snigdhamb.github.io/blob/master/python_notebooks/IS445HW8.ipynb" text="The Notebook" %}
+<a class="m-1 btn btn-outline-primary btn-2 " href="python_notebooks/analysis.md">
+  The Notebook
+</a>
 </div>
-```
-
-<!-- these are written in a combo of html and liquid --> 
-
-<div class="left">
-{% include elements/button.html link="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://github.com/snigdhamb/snigdhamb.github.io/blob/master/python_notebooks/IS445HW8.ipynb" text="The Notebook" %}
-</div>
-
