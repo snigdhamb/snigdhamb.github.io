@@ -9,7 +9,7 @@ Here are interactive visualizations of gas emissions over time.
 
 ## Interactive Bar Chart
 
-<iframe src="PATH_TO_BAR_CHART_HTML" width="100%" height="400"></iframe>
+<iframe src="/assets/interactive_bar_chart.html" width="100%" height="600"></iframe>
 
 <!-- Replace PATH_TO_BAR_CHART_HTML with the actual path to your interactive bar chart HTML file -->
 
